@@ -1,0 +1,3 @@
+[submodule "task_management_service"]
+	path = task_management_service
+	url = git@github.com:joathan/task_management_service.git
