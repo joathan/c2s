@@ -1,3 +1,15 @@
 [submodule "task_management_service"]
 	path = task_management_service
 	url = git@github.com:joathan/task_management_service.git
+[submodule "web_scraping_service"]
+	path = web_scraping_service
+	url = git@github.com:joathan/web_scraping_service.git
+[submodule "notifications_service"]
+	path = notifications_service
+	url = git@github.com:joathan/notifications_service.git
+[submodule "auth_service"]
+	path = auth_service
+	url = git@github.com:joathan/auth_service.git
+[submodule "c2s_frontend"]
+	path = c2s_frontend
+	url = git@github.com:joathan/c2s_frontend.git
